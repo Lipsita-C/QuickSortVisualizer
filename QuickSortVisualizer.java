@@ -17,7 +17,7 @@ public class QuickSortVisualizer extends JPanel {
   private static final Color SORTED_COLOR = Color.GREEN;
   private static final Color PIVOT_COLOR = Color.RED;
   private static final Color SWAP_COLOR = Color.BLUE;
-  private static final int DELAY = 10; // ms
+  private static final int DELAY = 200; // ms
 
   private int[] array;
   private int pivotIndex;
