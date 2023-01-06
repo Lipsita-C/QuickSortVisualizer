@@ -13,7 +13,7 @@ public class InsertionSortVisualizer extends JPanel {
   private static final Color UNSORTED_COLOR = Color.BLACK;
   private static final Color SORTED_COLOR = Color.GREEN;
   private static final Color SWAP_COLOR = Color.BLUE;
-  private static final int DELAY = 100; // ms
+  private static final int DELAY = 200; // ms
 
   private int[] array;
   private int i;
